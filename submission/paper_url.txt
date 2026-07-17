@@ -1,1 +1,2 @@
 PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+week1:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/notebooks/01_first_look_and_discovery.ipynb
