@@ -3,3 +3,4 @@ week1:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/noteboo
 week2:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w02_ml_task_framing.ipynb
 Week3:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w03_data_contract.ipynb
 Capstone:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/capstone.ipynb
+Live:https://mohidraheel.github.io/Machine-Learning-Practice/
