@@ -2,6 +2,7 @@ PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
 week1:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/notebooks/01_first_look_and_discovery.ipynb
 week2:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w02_ml_task_framing.ipynb
 Week3:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w03_data_contract.ipynb
+Week3:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w03_feature_leakage_check.ipynb
 Week4:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w04_baseline_score.ipynb
 Capstone:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/capstone.ipynb
 Live:https://mohidraheel.github.io/Machine-Learning-Practice/
