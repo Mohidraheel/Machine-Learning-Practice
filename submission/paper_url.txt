@@ -6,5 +6,6 @@ Week3:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/no
 Week4:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w04_baseline_score.ipynb
 Week4:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w04_signal_audit.ipynb
 Week5:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w05_model.ipynb
+Week6:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/w06_validation_audit.ipynb
 Capstone:https://github.com/Mohidraheel/Machine-Learning-Practice/blob/main/work/notebooks/capstone.ipynb
 Live:https://mohidraheel.github.io/Machine-Learning-Practice/
